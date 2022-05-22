@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a1c5cef.css",
+    "main.js": "/static/js/main.3ecfcb5f.js",
+    "static/media/burger.PNG": "/static/media/burger.ef5feda3a869ca48cc7b.PNG",
+    "static/media/diner.jpg": "/static/media/diner.765437a967637a97b225.jpg",
+    "static/media/logo.png": "/static/media/logo.b45ac75ae200fe5e3b1f.png",
+    "static/media/banniere.png": "/static/media/banniere.33e0fe9e8e7be3c0030f.png",
+    "static/media/traiteur.png": "/static/media/traiteur.28ebb316a95ddb84851f.png",
+    "static/media/glace2.jpg": "/static/media/glace2.786f9d05fbd43e6fcc74.jpg",
+    "static/media/Plann.PNG": "/static/media/Plann.8cbcbc716df869af255d.PNG",
+    "static/media/gouter.jpg": "/static/media/gouter.4f4c7aa483afcede1a9c.jpg",
+    "static/media/petitdej.jpg": "/static/media/petitdej.40303fdc30751571cbb6.jpg",
+    "static/media/boissonsimg.png": "/static/media/boissonsimg.00cba93f6962f7bd647b.png",
+    "index.html": "/index.html",
+    "main.9a1c5cef.css.map": "/static/css/main.9a1c5cef.css.map",
+    "main.3ecfcb5f.js.map": "/static/js/main.3ecfcb5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a1c5cef.css",
+    "static/js/main.3ecfcb5f.js"
+  ]
+}
